@@ -9,7 +9,7 @@ public class NinesSum {
             temp2 = temp2 + temp;
             sum = sum + temp2;
         }
-        System.out.println(sum);
+        System.out.println(Math.round(sum));
 
     }
 }
